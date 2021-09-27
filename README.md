@@ -1,4 +1,4 @@
-# LAB-01a-foundation-prep-notes
+# LAB-01b-foundation-prep-notes
 
 * [day 1](./day-1/notes.md)
 * [day 2](./day-2/notes.md)
